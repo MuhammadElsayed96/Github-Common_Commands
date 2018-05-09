@@ -33,7 +33,7 @@ This is a repo that contains all of my daily used Github commands
 
 
 
-### Basic Commands
+## Basic Commands
 
 | Command | Description |
 | ------- | ----------- |
